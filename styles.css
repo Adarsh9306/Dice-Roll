@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -33,7 +32,7 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 1%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -46,6 +45,14 @@ footer {
   color: #4ECCA3;
   width: 20%;
   margin: auto;
-  text-align: center;  
-  
+  text-align: center;    
+}
+.btn {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  color: #66BFBF;
+  font-size: 4rem;
+}
+.pname {
+  font-size: 3rem;
 }
